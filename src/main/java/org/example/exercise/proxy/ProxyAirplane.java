@@ -1,4 +1,4 @@
-package org.example.proxy;
+package org.example.exercise.proxy;
 
 public class ProxyAirplane implements Airplane {
 
